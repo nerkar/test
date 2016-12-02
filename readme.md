@@ -1,1 +1,3 @@
-number of links = 100
+links new 
+number of links = 10
+no links
