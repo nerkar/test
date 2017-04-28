@@ -1,2 +1,7 @@
+
+secure/credentials filter=git-crypt diff=git-crypt
+secure/config filter=git-crypt diff=git-crypt
+secure/id_rsa filter=git-crypt diff=git-crypt
 sample.txt filter=git-crypt diff=git-crypt
 *.key filter=git-crypt diff=git-crypt
+ 
